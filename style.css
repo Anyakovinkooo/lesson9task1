@@ -48,13 +48,13 @@ div {
       top: 20px;
       left: 50px;
   }
-  .absoolute-parent {
+  .absolute-parent {
       position: absolute;
       bottom: 20px;
       right: 50px;
   }
   .fixed-parent {
       position: fixed;
-bottom: 20px;
+      bottom: 20px;
       left: 30px;
   }
